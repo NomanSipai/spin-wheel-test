@@ -1,0 +1,14 @@
+body {
+  background-color: #f1f3f6;
+}
+.ant-btn:hover {
+  color: #f16167 !important;
+  border-color: #f16167 !important;
+}
+.ant-input:hover {
+  border-color: #f37360 !important;
+}
+.ant-input:focus {
+  border-color: #f37360 !important;
+  box-shadow: 0 0 0 2px rgba(249, 187, 13, 0.21) !important;
+}
